@@ -43,7 +43,7 @@ I'm a Computer Science student passionate about software development, backend en
 
 ## GitHub Stats
 
-| <a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Moaz's GitHub stats" /></a> | <a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoazAbdulsalam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Moaz's GitHub stats" /></a> | <a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoazAbdulsalam&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
