@@ -26,15 +26,10 @@ I'm a Computer Science student passionate about software development, backend en
 ### 🔹 Backend
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
 ![T--SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat&logo=windows&logoColor=white)
-
 ![REST API](https://img.shields.io/badge/REST-API-orange)
-
 ---
 ### 🔹 Databases
 
