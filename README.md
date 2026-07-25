@@ -19,17 +19,55 @@ I'm a Computer Science student passionate about software development, backend en
 
 - 📚 Always learning new technologies, improving my problem-solving skills, and exploring better ways to write clean code
 
-## Technologies & Tools
+## 🛠️ Tech Stack
 
-<code><img height="20" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt=".NET" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-<code><img height="20" alt="ADO.NET" src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white"></code>
-<code><img height="20" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"></code>
-<code><img height="20" alt="SQL Database" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+
+
+### 🔹 Backend
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+![T--SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat&logo=windows&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST-API-orange)
+
+---
+### 🔹 Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🔹 Programming Fundamentals
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+![OOP](https://img.shields.io/badge/OOP-important)
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-blue)
+
+![Databases](https://img.shields.io/badge/Databases-success)
+
+![ERD](https://img.shields.io/badge/ERD-lightgrey)
+
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FF6600?style=flat&logo=ubuntu&logoColor=white)
+
+---
+### 🔹 Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+
 <br />
 
 ## What I'm Working On
