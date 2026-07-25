@@ -32,34 +32,21 @@ I'm a Computer Science student passionate about software development, backend en
 ![REST API](https://img.shields.io/badge/REST-API-orange)
 ---
 ### 🔹 Databases
-
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
 ---
 
 ### 🔹 Programming Fundamentals
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
 ![OOP](https://img.shields.io/badge/OOP-important)
-
 ![Data Structures](https://img.shields.io/badge/Data_Structures-blue)
-
 ![Databases](https://img.shields.io/badge/Databases-success)
-
 ![ERD](https://img.shields.io/badge/ERD-lightgrey)
-
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-FF6600?style=flat&logo=ubuntu&logoColor=white)
-
 ---
 ### 🔹 Tools
-
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
 ---
 
 
